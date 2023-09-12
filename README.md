@@ -7,7 +7,7 @@ git status
 ```
 git add .
 ```
-
+- `-m` means meassage
 ```
 git commit -m "update"
 ```
